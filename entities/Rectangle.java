@@ -11,5 +11,4 @@ public class Rectangle {
     public Double Diagonal(double width, double height) {
         return Math.sqrt(Math.pow(2, width) + Math.pow(2, height));
     }
-    
 }

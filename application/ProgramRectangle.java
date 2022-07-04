@@ -21,6 +21,5 @@ public class ProgramRectangle {
         System.out.printf("%s = %.2f %n", "DIAGONAL", Math.ceil(rectangle.Diagonal(width, height)));
         
         sc.close();
-        
     }
 }
